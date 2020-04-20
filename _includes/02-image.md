@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![My Spirit Animal](https://www.bookyogaretreats.com/static/files/attachments/ps/jq/ln/ks/p_gray-wolf-981634_1280.jpg)
